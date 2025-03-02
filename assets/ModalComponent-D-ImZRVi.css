@@ -1,0 +1,1 @@
+.close-animation[data-v-baee9b38]{animation:close-animation-baee9b38 .25s ease}@keyframes close-animation-baee9b38{0%{transform:scale(1);opacity:1}to{transform:scale(.3);opacity:0}}.open-animation[data-v-baee9b38]{animation:open-animation-baee9b38 .25s ease}@keyframes open-animation-baee9b38{0%{transform:scale(.3);opacity:0}to{transform:scale(1);opacity:1}}
